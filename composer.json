@@ -1,12 +1,12 @@
 {
-    "name": "leite/log",
+    "name": "leite-log",
     "description": "日志记录",
     "type": "library",
     "version": "1.1.0",
     "authors": [
         {
-            "name": "tanjinhui",
-            "email": "792297773@qq.com"
+            "name": "ysh",
+            "email": "XXXXX@qq.com"
         }
     ],
     "config": {
@@ -15,7 +15,7 @@
     "require": {
         "php": "^7.3.0",
         "topthink/framework": ">=5.1.0 <7.0.0",
-        "leite/extend-base": "^1.0"
+        "leite/extend-log": "^1.0"
     },
     "require-dev": {
         "squizlabs/php_codesniffer": "^3.4",
